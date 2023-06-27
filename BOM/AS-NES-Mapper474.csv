@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C2,C3";"C_Disc_D3.0mm_W1.6mm_P2.50mm";2;"0.1uF";;;
+2;"U2,U1";"DIP-32_W15.24mm";2;"SST39SF010";;;
+3;"J1";"NES72PinEdgeConnector2";1;"NES72PinConnector";;;
+4;"JP2";"SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm";1;"V";;;
+5;"U13,U12";"SOT-23-5";2;"74AHC1G32";;;
+6;"U5";"DIP-16_W7.62mm";1;"~";;;
+7;"C1";"CP_Radial_D5.0mm_P2.50mm";1;"22uF ELECTROLITIC";;;
+8;"U4";"DIP-14_W7.62mm";1;"4078";;;
+9;"U15,U14";"SOT-23-5";2;"74AHC1G04";;;
+10;"U10,U9";"DIP-28_W15.24mm";2;"MROM";;;
+11;"U6";"DIP-8_W7.62mm";1;"ATtiny13-20P";;;
+12;"JP1";"SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm";1;"H";;;
+13;"U11";"DIP-14_W7.62mm";1;"4082";;;
