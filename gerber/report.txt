@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-F_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-B_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-F_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-B_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-F_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-B_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\uapserk\source\repos\akerasoft\pcb\akerasoft FO61BC88D3404 AS _NES_Mapper472 (7)\akerasoft FO61BC88D3404 AS _NES_Mapper472\gerber\AS-NES-Mapper474-job.gbrjob'.
+Info: Done.
